@@ -21,7 +21,7 @@ class studert:
 studert1 = studert("ธันย์ชนก ไชยชนะ","เกด")
 studert2 = studert("ลินลาวดี ไกลถิ่น","เฮลลี่")
 studert3 = studert("ศศิวมล แซ่ด่าน","แบม")
-studert4 = studert("วิไลวรรณ พลเดช","แมวเป้า")
+studert4 = studert("นันท์ธิชา ว่องย่อง","ไอซ์")
 studert5 = studert("หนี่งธิดา อินทรชัย","ตัง")
 
 studert1.scores()
